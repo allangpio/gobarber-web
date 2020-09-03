@@ -1,5 +1,4 @@
 import styled, { css } from 'styled-components';
-import { FiAlertCircle } from 'react-icons/fi';
 import Tooltip from '../Tooltip';
 
 interface ContainerProps {
